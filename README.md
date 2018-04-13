@@ -14,3 +14,7 @@
 
 4/8 trickstar更新卡表，刪除禁卡
 
+4/13 增加削血牌組(ChainBurn)
+LightswornShaddoldinosour牌組 修復選擇問題
+
+

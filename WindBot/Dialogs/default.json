@@ -59,10 +59,8 @@
     "Whatever could this monster be?",
     "Attack this monster, I dare you!"
   ],
-  "chaining": [
-    "Not so fast! I activate {0}!",
+  "chaining": [    
     "Before you do that, I'll chain {0}!",
-    "Nice try, but I have {0}!",
-    "Didn't expect {0}, did you?"
+    
   ]
 }
