@@ -10,7 +10,14 @@
 
 把檔案解壓到YOGOPRO的目錄下，並確認有覆蓋到相同檔案
 
-# Update
+
+# How to install
+
+Before you do this,back up your YOGOPRO first
+
+overwrite the file in the YOGOPRO Folder
+
+# 更新
 
 4/8 trickstar更新卡表，刪除禁卡
 
