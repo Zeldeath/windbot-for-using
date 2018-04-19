@@ -24,4 +24,12 @@ overwrite the file in the YOGOPRO Folder
 4/13 增加削血牌組(ChainBurn)
 LightswornShaddoldinosour牌組 修復選擇問題
 
+4/17
+白雪效果修正 
+
+# Update
+
+4/17
+FairyTailSnow effect fix
+
 
