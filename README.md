@@ -27,9 +27,14 @@ LightswornShaddoldinosour牌組 修復選擇問題
 4/17
 白雪效果修正 
 
+4/25
+新增AI-DarkMagician
+
 # Update
 
 4/17
 FairyTailSnow effect fix
 
+4/25
+Add new AI-DarkMagician
 
