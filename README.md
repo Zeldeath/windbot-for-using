@@ -2,20 +2,20 @@
 
 # 安裝方式
 
-在安裝之前記得備份主程式YOGOPRO!!
+在安裝之前記得備份主程式Ygopro!!
 
-在安裝之前記得備份主程式YOGOPRO!!
+在安裝之前記得備份主程式Ygopro!!
 
-在安裝之前記得備份主程式YOGOPRO!!
+在安裝之前記得備份主程式Ygopro!!
 
-把檔案解壓到YOGOPRO的目錄下，並確認有覆蓋到相同檔案
+把檔案解壓到Ygopro的目錄下，並確認有覆蓋到相同檔案
 
 
 # How to install
 
-Before you do this,back up your YOGOPRO first
+Before you do this,back up your Ygopro first
 
-overwrite the file in the YOGOPRO Folder
+overwrite the file in the Ygopro Folder
 
 # 更新
 
