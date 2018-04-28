@@ -38,3 +38,70 @@ FairyTailSnow effect fix
 4/25
 Add new AI-DarkMagician
 
+# Available decks
+
+Easy:
+
+    Burn
+
+    Frog
+
+    Horus
+
+    MokeyMokey
+
+    MokeyMokeyKing
+
+    OldSchool
+
+Normal:
+
+    Blue-Eyes
+
+    Dragunity
+
+    Qliphort
+
+    Rainbow
+
+    Rank V
+
+    ST1732
+
+    Toadally Awesome (old lflist, master rule 3 only)
+
+    Trickstar
+
+    Yosenju
+
+    Zexal Weapons
+
+    Zoodiac (old lflist, master rule 3 only)
+
+Testing decks
+
+    ChainBurn
+
+    LightswornShaddoldinosour
+
+    DarkMagician  
+
+Unfinished decks
+
+    Blackwing
+
+    CyberDragon
+
+    Evilswarm
+
+    Gravekeeper
+
+    Graydle
+
+    Lightsworn
+
+    Nekroz
+
+    
+
+
