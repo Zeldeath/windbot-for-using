@@ -1,4 +1,4 @@
-## windbot-for-using
+﻿## windbot-for-using
 
 # 安裝方式
 
@@ -12,10 +12,18 @@
 
 
 # How to install
-
 Before you do this,back up your Ygopro first
 
-overwrite the file in the Ygopro Folder
+1.Make sure your Ygopro has those files or folder,if not,find a version support WindBot first.
+![image](https://github.com/handsomekiwi/windbot-for-using/blob/master/ignore%20this/3333.PNG)
+
+2.Click clone or download 
+![image](https://github.com/handsomekiwi/windbot-for-using/blob/master/ignore%20this/1111.PNG)
+
+3.Download Zip
+![image](https://github.com/handsomekiwi/windbot-for-using/blob/master/ignore%20this/2222.PNG)
+
+4.Unzip it and overwite [WindBot] [bot.conf] [Bot.exe] those files or folder  under Ygopro folder
 
 # 更新
 
