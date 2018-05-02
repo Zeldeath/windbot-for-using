@@ -1,4 +1,4 @@
-﻿## windbot-for-using
+﻿## windbot-for-using(Personal Computer Only)
 
 # 安裝方式
 
