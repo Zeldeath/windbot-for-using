@@ -28,7 +28,6 @@ FairyTailSnow effect fix
 Add new AI-DarkMagician
 
 5/5
-
 Add new AI-SkyStriker
 
 # Available decks
