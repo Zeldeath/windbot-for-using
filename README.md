@@ -27,6 +27,10 @@ FairyTailSnow effect fix
 4/25
 Add new AI-DarkMagician
 
+5/5
+
+Add new AI-SkyStriker
+
 # Available decks
 
 Easy:
@@ -74,6 +78,8 @@ Testing decks
     LightswornShaddoldinosour
 
     DarkMagician  
+
+    SkyStriker
 
 Unfinished decks
 
