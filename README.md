@@ -19,6 +19,7 @@ Before you do this,back up your Ygopro first
 
 4.Unzip it and overwite [WindBot] [bot.conf] [Bot.exe] those files or folder  under Ygopro folder
 
+Note: If AI_Chainburn doesn't use new Timelord card,overwite [card.cdb] under Ygopro folder
 # Update
 
 4/17
