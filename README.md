@@ -32,6 +32,9 @@ Add new AI-SkyStriker
 
 # Available decks
 
+5/7
+AI-ChainBurn add new Timelord Card
+
 Easy:
 
     Burn
