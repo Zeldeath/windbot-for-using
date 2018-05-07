@@ -31,10 +31,10 @@ Add new AI-DarkMagician
 5/5
 Add new AI-SkyStriker
 
-# Available decks
-
 5/7
 AI-ChainBurn add new Timelord Card
+
+# Available decks
 
 Easy:
 
