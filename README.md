@@ -23,7 +23,7 @@ Note: If AI_Chainburn doesn't use new Timelord card,overwite [card.cdb] under Yg
 
 5.Launch Ygopro and you will see new AI in puzzle mode
 
-![image](https://github.com/handsomekiwi/windbot-for-using/blob/master/ignore%20this/6666.PNG)
+![image](https://github.com/handsomekiwi/windbot-for-using/blob/master/ignore%20this/6666.jpg)
 # Update
 
 4/17
