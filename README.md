@@ -1,6 +1,6 @@
 ﻿## windbot-for-using
 
-Personal Computer Only
+THe mod support Personal Computer Only
 
 # How to install
 Before you do this,back up your Ygopro first
