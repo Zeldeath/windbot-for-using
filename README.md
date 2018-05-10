@@ -20,6 +20,10 @@ Before you do this,back up your Ygopro first
 4.Unzip it and overwite [WindBot] [bot.conf] [Bot.exe] those files or folder  under Ygopro folder
 
 Note: If AI_Chainburn doesn't use new Timelord card,overwite [card.cdb] under Ygopro folder
+
+5.Launch Ygopro and you will see new AI in puzzle mode
+
+![image](https://github.com/handsomekiwi/windbot-for-using/blob/master/ignore%20this/6666.PNG)
 # Update
 
 4/17
