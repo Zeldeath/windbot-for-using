@@ -1,6 +1,6 @@
 ﻿## windbot-for-using
 
-THe mod support Personal Computer Only
+The mod support Personal Computer Only
 
 # How to install
 Before you do this,back up your Ygopro first
@@ -34,7 +34,7 @@ Add new AI-SkyStriker
 5/7
 AI-ChainBurn add new Timelord Card
 
-# Available decks
+# Available AI decks
 
 Easy:
 
